@@ -1,0 +1,2 @@
+[workspace]
+members = ["app", "client_builder_yew"]

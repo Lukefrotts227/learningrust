@@ -1,0 +1,8 @@
+# Ignore all Cargo.lock files
+Cargo.lock
+
+# Ignore all node_modules folders
+node_modules/
+
+# Ignore all target folders
+target/
